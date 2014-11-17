@@ -22,6 +22,7 @@ namespace FunInClass
     {
         public MainWindow()
         {
+            // hshshshs
             InitializeComponent();
         }
     }
